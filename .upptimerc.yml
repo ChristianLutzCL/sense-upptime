@@ -11,7 +11,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.sensefeedback.com
+  # cname: status.sensefeedback.com
   baseUrl: /sense-upptime
   logoUrl: https://www.sensefeedback.com/_next/static/media/logo-dark.5d6789eb.svg
   favicon: https://www.sensefeedback.com/favicon.ico
