@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 1359,
-    "timeWeek": 769,
-    "timeMonth": 985,
-    "timeYear": 985,
+    "time": 998,
+    "timeDay": 1463,
+    "timeWeek": 893,
+    "timeMonth": 998,
+    "timeYear": 998,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sensefeedback.com.ico",
     "slug": "sense-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 442,
-    "timeWeek": 436,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "uptime": "99.21%",
+    "uptimeDay": "77.30%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
+    "time": 436,
+    "timeDay": 518,
+    "timeWeek": 454,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-01-02": 0
+      "2025-01-03": 69,
+      "2025-01-02": 258
     }
   }
 ]
