@@ -4,7 +4,7 @@
     "url": "https://www.sensefeedback.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sensefeedback.com.ico",
     "slug": "sense-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1086,
     "timeMonth": 924,
     "timeYear": 931,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Sense API",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sensefeedback.com.ico",
     "slug": "sense-api",
     "status": "down",
-    "uptime": "44.75%",
+    "uptime": "44.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.21%",
-    "uptimeYear": "44.75%",
+    "uptimeMonth": "79.40%",
+    "uptimeYear": "44.78%",
     "time": 405,
     "timeDay": 0,
     "timeWeek": 0,
